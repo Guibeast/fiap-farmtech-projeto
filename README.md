@@ -54,7 +54,7 @@ Esta solução permite o gerenciamento de áreas de cultivo de soja e café, cal
     *   Defina o diretório de trabalho para a localização do arquivo (Session > Set Working Directory > To Source File Location ).
     *   Clique em "Source" para executar o script e ver a análise no console.
 
-## 👥 Autores (Equipe Fictícia)
+## 👥 Autores
 
 *   **Guilherme da Nóbrega Gontijo** - *Desenvolvedor & Gerente de Projeto*
 
