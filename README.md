@@ -56,6 +56,5 @@ Esta solução permite o gerenciamento de áreas de cultivo de soja e café, cal
 
 ## 👥 Autores (Equipe Fictícia)
 
-*   **Seu Nome** - *Desenvolvedor Python & Gerente de Projeto*
-*   **Nome Colega 1** - *Analista de Dados & Desenvolvedor R*
-*   **Nome Colega 2** - *Pesquisador & Documentação*
+*   **Guilherme da Nóbrega Gontijo** - *Desenvolvedor & Gerente de Projeto*
+
