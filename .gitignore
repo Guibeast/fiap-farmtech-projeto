@@ -1,14 +1,25 @@
-# Arquivos de Cache e Bytecode do Python
+# Comentários do Sistema Operacional (arquivos automáticos e "lixo")
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos e pastas de cache do Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Ambientes Virtuais
+# Pastas de ambiente virtual do Python
 .venv
-venv/
-ENV/
+venv
+ENV
 
-# Arquivos de IDEs (VSCode, PyCharm)
-.vscode/
-.idea/
+# Arquivos de sessão e histórico do R e RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# --- SEÇÃO OPCIONAL: Arquivos de dados gerados pelos scripts ---
+# farmtech_dados.json
+# dados_culturas.csv
+# ultima_localizacao.json
