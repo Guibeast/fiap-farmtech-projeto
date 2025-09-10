@@ -1,5 +1,3 @@
-# fiap-farmtech-projeto
-Projeto de Agricultura Digital - FIAP
 # Projeto FarmTech Solutions - Agricultura Digital (FIAP)
 
 Projeto acadêmico desenvolvido para a disciplina da FIAP, simulando uma solução de agricultura digital para a empresa fictícia FarmTech Solutions.
@@ -57,4 +55,4 @@ Esta solução permite o gerenciamento de áreas de cultivo de soja e café, cal
 ## 👥 Autores
 
 *   **Guilherme da Nóbrega Gontijo** - *Desenvolvedor & Gerente de Projeto*
-
+Grupo 67
