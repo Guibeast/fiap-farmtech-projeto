@@ -37,7 +37,7 @@ Esta solução permite o gerenciamento de áreas de cultivo de soja e café, cal
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/fiap-farmtech-projeto.git
+    git clone https://github.com/guibeast/fiap-farmtech-projeto.git
     cd fiap-farmtech-projeto
     ```
 
