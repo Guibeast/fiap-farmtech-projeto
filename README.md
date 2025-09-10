@@ -20,8 +20,6 @@ Esta solução permite o gerenciamento de áreas de cultivo de soja e café, cal
 │   └── farmtech_main.py
 ├── codigo_r/           # Contém o script de análise em R
 │   └── analise_farmtech.R
-├── resumo_academico/   # Contém o resumo do artigo científico
-│   └── resumo_artigo_embrapa.pdf
 ├── .gitignore          # Especifica arquivos a serem ignorados pelo Git
 └── README.md           # Este arquivo
 ```
