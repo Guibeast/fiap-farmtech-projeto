@@ -53,4 +53,5 @@ Esta solução permite o gerenciamento de áreas de cultivo de soja e café, cal
 ## 👥 Autores
 
 *   **Guilherme da Nóbrega Gontijo** - *Desenvolvedor & Gerente de Projeto*
+
 Grupo 67
